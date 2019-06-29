@@ -1,2 +1,2 @@
 # python-stats
-collection of scripts looking at statitstics
+collection of scripts looking at statitstics and probability
