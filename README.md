@@ -8,6 +8,6 @@
 >and the number of rolls. it'll plot the frequencies in pyplot.
 
 [roulette](./roulette.py)
-this takes a look at discrete probaility. you can change the rolls,
-the number you bet on, the dollar amount you start with. it'll plot
-the results in pyplot.
+>this takes a look at discrete probaility. you can change the rolls,
+>the number you bet on, the dollar amount you start with. it'll plot
+>the results in pyplot.
